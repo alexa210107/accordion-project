@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/accordion-project-alexandra/static/css/main.c106d309.css",
+    "main.js": "/accordion-project-alexandra/static/js/main.14b26c23.js",
+    "static/js/453.791263c3.chunk.js": "/accordion-project-alexandra/static/js/453.791263c3.chunk.js",
+    "index.html": "/accordion-project-alexandra/index.html",
+    "main.c106d309.css.map": "/accordion-project-alexandra/static/css/main.c106d309.css.map",
+    "main.14b26c23.js.map": "/accordion-project-alexandra/static/js/main.14b26c23.js.map",
+    "453.791263c3.chunk.js.map": "/accordion-project-alexandra/static/js/453.791263c3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c106d309.css",
+    "static/js/main.14b26c23.js"
+  ]
+}
