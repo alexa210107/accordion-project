@@ -1,7 +1,7 @@
 {
   "name": "accordion-exer",
   "version": "0.1.0",
-   "homepage": "https://alexa210107.github.io/accordion-project-alexandra",
+  "homepage": "https://alexa210107.github.io/accordion-project-alexandra",
   "private": true,
   "dependencies": {
     "@cyriacbr/react-split-text": "^1.0.0",
@@ -67,5 +67,4 @@
   "bugs": {
     "url": "https://github.com/alexa210107/accordion-project-alexandra/issues"
   }
- 
 }
